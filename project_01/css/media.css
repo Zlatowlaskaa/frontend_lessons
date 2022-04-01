@@ -1,0 +1,9 @@
+@media screen and (max-width:992px) {
+    .container {
+        max-width: 100%;   
+    }
+    body {
+        background-color: rgb(219, 237, 244);
+       }
+
+}
