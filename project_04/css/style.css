@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.content {
+    background: rgb(16,169,187);
+background: radial-gradient(circle, rgba(16,169,187,1) 0%, rgba(76,141,219,1) 100%);
+}
+
+.content_inside {
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.parent {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.parent_icon {
+    padding-left: 15px; 
+}
+
+.parent_tema {
+    padding-left: 25px;
+    text-align: left;
+}
+.number {
+    color: aliceblue;
+    padding-top: 15px;
+    font-size: 35px;
+}
+.text {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+i.fa {
+    font-size: 40px;
+    color: aliceblue;
+}
+
+
