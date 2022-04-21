@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.box_inner {
+    text-align: center;
+}
+
+.caption {
+   max-width: 700px;
+   margin: 80px auto 30px;
+   font-weight: 100;
+   line-height: 50px;
+}
+
+.text {
+max-width: 900px;
+margin: 0 auto 60px;
+line-height: 30px;
+}
+
+
+.content_img i.fa {
+color: rgb(43, 159, 159);
+font-size: 90px;
+margin: 0 45px;
+}
+
+
+
